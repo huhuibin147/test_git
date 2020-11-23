@@ -9,3 +9,4 @@ add new dev(fix bug)
 asd1
 asd2
 add machine2
+add test
